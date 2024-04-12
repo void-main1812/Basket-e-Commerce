@@ -47,4 +47,4 @@ yarn dev
 ```
 
 5. Open http://localhost:3000 in your browser to view your application
-6. This Project is currently live at [basket-e-commerce-bice.vercel.app](basket-e-commerce-bice.vercel.app)
+6. This Project is currently live at [basket-e-commerce-bice.vercel.app](https://basket-e-commerce-bice.vercel.app/)
